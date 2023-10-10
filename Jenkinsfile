@@ -4,7 +4,7 @@ pipeline {
     stages {
         //stage('Checkout code') {
             //steps {
-                //checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[url: 'https://github.com/Rahul-training/Devops.git']])
+                //checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[url: 'https://github.com/Rahul4cs/Devops.git']])
            // }
        // }
      stage('Install Maven Build Tool') {
